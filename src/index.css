@@ -1,3 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background-primary: #f0f0f1;
+  --text-primary: #252529;
+  --danger: #ff3c3c;
+  --warning: #fbfb53;
+  --successful: #3aee3a;
+  --border: 1px solid #dedede;
+  --border-radius: .25rem;
+  --card-primary: max-width: "540px"; max-height: "420px"; padding: "40px"; 
+
+  
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
